@@ -10,4 +10,4 @@ React Functional Component
 
 Screen;
 
-[!](./assets/getirclone.mov)
+![](./assets/getirclone-ezgif.com-video-speed.mov)
